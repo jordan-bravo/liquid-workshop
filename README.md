@@ -1,6 +1,9 @@
 # Liquid Bitcoin Workshop
 
-Notes for my workshop on using Liquid Bitcoin
+Notes for my workshop on using Liquid Bitcoin. Wednesday 2024-10-16. [Meetup event page](https://www.meetup.com/atlbitlab/events/302064470)
+
+![Screenshot from 2024-10-19 22-38-33](https://github.com/user-attachments/assets/62b0744e-0a0f-4838-950a-3defd8c78fcc)
+
 
 ![Screenshot from 2024-10-19 22-16-23](https://github.com/user-attachments/assets/9b811ebf-089f-49af-a3b4-7d40eb0a7f31)
 
